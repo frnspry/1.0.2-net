@@ -1,4 +1,4 @@
-module app-sealgo
+module sib-seal-ec2-test
 
 go 1.22.0
 
